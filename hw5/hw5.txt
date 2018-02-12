@@ -1,0 +1,17 @@
+[°úÁ¦05] Logistic Regression
+
+Use the attached data file 'cedegren2.csv'.
+
+(1)
+- Test 3-way interaction term 'cat:follows:class'. Compute Deviance, df and p-value.
+- Test 2-way interaction terms 'cat:follows', 'follows:class', 'cat:class'. Compute Deviance, df and p-value.
+
+(2)
+- Estimate prob, odds, logit for each cell. There are 18 cells: 3 levels (cat) * 3 levels (follows) * 2 levels (class).
+- Draw interaction plots of cat and follows for each class. y-axis: logit, x-axis: cat, lines: follows.
+
+(3)
+- Fit the model 'follows + cat + class + cat:class'.
+- Write the model equation.
+- Explain how to compute P(sDel | follows=V, cat=n, class="L").
+- Draw interaction plots. Compare them with (2).

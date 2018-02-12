@@ -1,0 +1,5 @@
+[°úÁ¦06] Finite Mixture Models
+
+(Exercise 6.4 & Section 6.3 Model Selection) Determine the optimal number of components
+(Exercise 6.8) K-means vs Gaussian mixture models
+(Example 6.6, Exercise 6.9, Exercise 6.10) Covariance Models 

@@ -1,0 +1,8 @@
+
+[°úÁ¦06] Naive Bayes Classifier
+
+Use Example 2 dataset. Learn naive Bayes classifier.
+
+- Estimate prior probabilities: P(C='a'), P(C='b'), P(C='c')
+- Compute likelihood P(X1=1|C='a'), P(X1=1|C='b'), ..., P(X3=1|C='c').
+- Compute posterior probabilities P(c|x) for each class c in {a, b, c} and for each feature vector x in {(0, 0, 0), ..., (1,1, 1)}.

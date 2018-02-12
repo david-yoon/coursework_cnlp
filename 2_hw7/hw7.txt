@@ -1,0 +1,14 @@
+[hw07] EM Clustering
+
+- Use the attached tab-separated values file 'wsd_dataset.tsv'.
+  - column 1: class label
+  - column 2: left-hand side context
+  - column 3: keyword
+  - column 4: right-hand side context
+- It contains datasets of three ambiguous word forms:
+  - 사과 05 (apple), 08 (apology)
+  - 배 01 (stomach), 02 (ship), 03 (pear), 09 (double)
+  - 감자 01 (potato), 05 (capital reduction)
+
+- Do experiments separately for each word form.
+- Compare the result of the EM clustering to the true classes.

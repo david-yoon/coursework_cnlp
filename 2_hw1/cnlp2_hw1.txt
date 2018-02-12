@@ -1,0 +1,11 @@
+[과제01] EM Algorithm: Binomial Mixture
+
+ 강의노트 Likelihood의 13-16쪽의 Example, Exercise.
+
+ Generate a random sample (complete data) from a Binomial mixture distribution with parameters (theta1, theta2). Set the parameter values and the sample size as you wish. You may repeat experiments with several different parameter settings.
+Compute MLE with the "complete" data. You know the class label (Z) and the feature value (Y).
+Suppose that you don't know the class label. Implement EM algorithm for the "incomplete" data.
+Compute MLE for (theta1, theta2)
+Compute resposibilities. Plot responsiblity against Y.
+ Compute log-likelihoods for each iteration and plot loglik against iteration.
+Write the estimated likelihood function. Plot the pdf. 

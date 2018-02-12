@@ -1,0 +1,335 @@
+cjc_0001	2009040601718.txt	http://news.chosun.com/site/data/html_dir/2009/04/06/2009040601718.html	번식을 자제하는 생물, 한국인
+cjc_0002	2009041301903.txt	http://news.chosun.com/site/data/html_dir/2009/04/13/2009041301903.html	생태 엇박자
+cjc_0003	2009042001957.txt	http://news.chosun.com/site/data/html_dir/2009/04/20/2009042001957.html	연해주 농장
+cjc_0004	2009042702125.txt	http://news.chosun.com/site/data/html_dir/2009/04/27/2009042702125.html	아침형 인간, 올빼미형 인간
+cjc_0005	2009050401454.txt	http://news.chosun.com/site/data/html_dir/2009/05/04/2009050401454.html	과학기술 추경예산
+cjc_0006	2009051101943.txt	http://news.chosun.com/site/data/html_dir/2009/05/11/2009051101943.html	불공평
+cjc_0007	2009051801837.txt	http://news.chosun.com/site/data/html_dir/2009/05/18/2009051801837.html	인플루엔자
+cjc_0008	2009052502326.txt	http://news.chosun.com/site/data/html_dir/2009/05/25/2009052502326.html	삶과 죽음
+cjc_0009	2009060102007.txt	http://news.chosun.com/site/data/html_dir/2009/06/01/2009060102007.html	바다의 날
+cjc_0010	2009060801681.txt	http://news.chosun.com/site/data/html_dir/2009/06/08/2009060801681.html	자살의 진화생물학
+cjc_0011	2009061501791.txt	http://news.chosun.com/site/data/html_dir/2009/06/15/2009061501791.html	애덤 스미스의 '도덕감정론'
+cjc_0012	2009062201649.txt	http://news.chosun.com/site/data/html_dir/2009/06/22/2009062201649.html	'해거리'의 자유
+cjc_0013	2009062901992.txt	http://news.chosun.com/site/data/html_dir/2009/06/29/2009062901992.html	코다크롬
+cjc_0014	2009070601643.txt	http://news.chosun.com/site/data/html_dir/2009/07/06/2009070601643.html	음악의 진화
+cjc_0015	2009071302351.txt	http://news.chosun.com/site/data/html_dir/2009/07/13/2009071302351.html	DNA와 셰익스피어
+cjc_0016	2009072001538.txt	http://news.chosun.com/site/data/html_dir/2009/07/20/2009072001538.html	장맛비
+cjc_0017	2009072701466.txt	http://news.chosun.com/site/data/html_dir/2009/07/27/2009072701466.html	치타와 영양
+cjc_0018	2009080301636.txt	http://news.chosun.com/site/data/html_dir/2009/08/03/2009080301636.html	상어 죽이기
+cjc_0019	2009081001476.txt	http://news.chosun.com/site/data/html_dir/2009/08/10/2009081001476.html	공룡과 운석
+cjc_0020	2009081701652.txt	http://news.chosun.com/site/data/html_dir/2009/08/17/2009081701652.html	해파리의 공격?
+cjc_0021	2009082401991.txt	http://news.chosun.com/site/data/html_dir/2009/08/24/2009082401991.html	까치와 칠석
+cjc_0022	2009083101826.txt	http://news.chosun.com/site/data/html_dir/2009/08/31/2009083101826.html	DMZ
+cjc_0023	2009090401643.txt	http://news.chosun.com/site/data/html_dir/2009/09/04/2009090401643.html	제2차 세계대전
+cjc_0024	2009090701772.txt	http://news.chosun.com/site/data/html_dir/2009/09/07/2009090701772.html	뻐꾸기
+cjc_0025	2009091401842.txt	http://news.chosun.com/site/data/html_dir/2009/09/14/2009091401842.html	'hate'와 'stupid'
+cjc_0026	2009092101652.txt	http://news.chosun.com/site/data/html_dir/2009/09/21/2009092101652.html	추석과 바이러스
+cjc_0027	2009092801869.txt	http://news.chosun.com/site/data/html_dir/2009/09/28/2009092801869.html	노인 인권
+cjc_0028	2009100501436.txt	http://news.chosun.com/site/data/html_dir/2009/10/05/2009100501436.html	기린
+cjc_0029	2009101201831.txt	http://news.chosun.com/site/data/html_dir/2009/10/12/2009101201831.html	개미의 공동감시제
+cjc_0030	2009101901828.txt	http://news.chosun.com/site/data/html_dir/2009/10/19/2009101901828.html	글로벌 디밍(Global Dimming)
+cjc_0031	2009102601872.txt	http://news.chosun.com/site/data/html_dir/2009/10/26/2009102601872.html	10월 27일
+cjc_0032	2009110201550.txt	http://news.chosun.com/site/data/html_dir/2009/11/02/2009110201550.html	영장류학
+cjc_0033	2009110901696.txt	http://news.chosun.com/site/data/html_dir/2009/11/09/2009110901696.html	혼화(混和)의 시대
+cjc_0034	2009111602007.txt	http://news.chosun.com/site/data/html_dir/2009/11/16/2009111602007.html	단풍
+cjc_0035	2009112301881.txt	http://news.chosun.com/site/data/html_dir/2009/11/23/2009112301881.html	태양광 돛단배
+cjc_0036	2009113001574.txt	http://news.chosun.com/site/data/html_dir/2009/11/30/2009113001574.html	생물학계의 구전문화
+cjc_0037	2009120701457.txt	http://news.chosun.com/site/data/html_dir/2009/12/07/2009120701457.html	'생태' 개념의 남용
+cjc_0038	2009121401458.txt	http://news.chosun.com/site/data/html_dir/2009/12/14/2009121401458.html	2.1
+cjc_0039	2009122101716.txt	http://news.chosun.com/site/data/html_dir/2009/12/21/2009122101716.html	통합, 융합, 통섭
+cjc_0040	2009122801512.txt	http://news.chosun.com/site/data/html_dir/2009/12/28/2009122801512.html	생활의 달인
+cjc_0041	2010010401635.txt	http://news.chosun.com/site/data/html_dir/2010/01/04/2010010401635.html	생물다양성의 해
+cjc_0042	2010011101731.txt	http://news.chosun.com/site/data/html_dir/2010/01/11/2010011101731.html	세대
+cjc_0043	2010011801758.txt	http://news.chosun.com/site/data/html_dir/2010/01/18/2010011801758.html	엄지
+cjc_0044	2010012501615.txt	http://news.chosun.com/site/data/html_dir/2010/01/25/2010012501615.html	천재지변(天災地變)
+cjc_0045	2010020101817.txt	http://news.chosun.com/site/data/html_dir/2010/02/01/2010020101817.html	경제학 문진(問津)
+cjc_0046	2010020801632.txt	http://news.chosun.com/site/data/html_dir/2010/02/08/2010020801632.html	오름과 내림
+cjc_0047	2010021500564.txt	http://news.chosun.com/site/data/html_dir/2010/02/15/2010021500564.html	국격(國格)
+cjc_0048	2010022201760.txt	http://news.chosun.com/site/data/html_dir/2010/02/22/2010022201760.html	시간
+cjc_0049	2010030101121.txt	http://news.chosun.com/site/data/html_dir/2010/03/01/2010030101121.html	발
+cjc_0050	2010030801849.txt	http://news.chosun.com/site/data/html_dir/2010/03/08/2010030801849.html	비만에 대한 오해
+cjc_0051	2010031502118.txt	http://news.chosun.com/site/data/html_dir/2010/03/15/2010031502118.html	종교와 과학
+cjc_0052	2010032202017.txt	http://news.chosun.com/site/data/html_dir/2010/03/22/2010032202017.html	물 부족 국가?
+cjc_0053	2010032902071.txt	http://news.chosun.com/site/data/html_dir/2010/03/29/2010032902071.html	의생학(擬生學)
+cjc_0054	2010040501807.txt	http://news.chosun.com/site/data/html_dir/2010/04/05/2010040501807.html	집단지능(collective intelligence)
+cjc_0055	2010041302251.txt	http://news.chosun.com/site/data/html_dir/2010/04/13/2010041302251.html	장어
+cjc_0056	2010041902466.txt	http://news.chosun.com/site/data/html_dir/2010/04/19/2010041902466.html	부모가 여럿인 생물
+cjc_0057	2010042602651.txt	http://news.chosun.com/site/data/html_dir/2010/04/26/2010042602651.html	복어
+cjc_0058	2010050302761.txt	http://news.chosun.com/site/data/html_dir/2010/05/03/2010050302761.html	경쟁
+cjc_0059	2010051002614.txt	http://news.chosun.com/site/data/html_dir/2010/05/10/2010051002614.html	책임의 소재
+cjc_0060	2010051702977.txt	http://news.chosun.com/site/data/html_dir/2010/05/17/2010051702977.html	네안데르탈인의 유전체(genome)
+cjc_0061	2010052402672.txt	http://news.chosun.com/site/data/html_dir/2010/05/24/2010052402672.html	개미제국의 선거
+cjc_0062	2010053102555.txt	http://news.chosun.com/site/data/html_dir/2010/05/31/2010053102555.html	반달가슴곰의 삶과 죽음
+cjc_0063	2010060702739.txt	http://news.chosun.com/site/data/html_dir/2010/06/07/2010060702739.html	개미
+cjc_0064	2010061402660.txt	http://news.chosun.com/site/data/html_dir/2010/06/14/2010061402660.html	거짓말
+cjc_0065	2010062102342.txt	http://news.chosun.com/site/data/html_dir/2010/06/21/2010062102342.html	전쟁
+cjc_0066	2010062802186.txt	http://news.chosun.com/site/data/html_dir/2010/06/28/2010062802186.html	방향감각
+cjc_0067	2010070501801.txt	http://news.chosun.com/site/data/html_dir/2010/07/05/2010070501801.html	국립자연박물관
+cjc_0068	2010071202088.txt	http://news.chosun.com/site/data/html_dir/2010/07/12/2010071202088.html	제인 구달과 침팬지
+cjc_0069	2010071901894.txt	http://news.chosun.com/site/data/html_dir/2010/07/19/2010071901894.html	능소화(凌
+cjc_0070	2010072601975.txt	http://news.chosun.com/site/data/html_dir/2010/07/26/2010072601975.html	매미
+cjc_0071	2010080201832.txt	http://news.chosun.com/site/data/html_dir/2010/08/02/2010080201832.html	불편한 진실
+cjc_0072	2010080901896.txt	http://news.chosun.com/site/data/html_dir/2010/08/09/2010080901896.html	곰팡이
+cjc_0073	2010081601870.txt	http://news.chosun.com/site/data/html_dir/2010/08/16/2010081601870.html	붉은색과 남자
+cjc_0074	2010082302026.txt	http://news.chosun.com/site/data/html_dir/2010/08/23/2010082302026.html	뜨거운 눈물
+cjc_0075	2010083001970.txt	http://news.chosun.com/site/data/html_dir/2010/08/30/2010083001970.html	마음의 뇌과학
+cjc_0076	2010090601898.txt	http://news.chosun.com/site/data/html_dir/2010/09/06/2010090601898.html	창의성
+cjc_0077	2010091301952.txt	http://news.chosun.com/site/data/html_dir/2010/09/13/2010091301952.html	맹장
+cjc_0078	2010092001363.txt	http://news.chosun.com/site/data/html_dir/2010/09/20/2010092001363.html	태풍
+cjc_0079	2010092701960.txt	http://news.chosun.com/site/data/html_dir/2010/09/27/2010092701960.html	석양
+cjc_0080	2010100401913.txt	http://news.chosun.com/site/data/html_dir/2010/10/04/2010100401913.html	외계 생명
+cjc_0081	2010101102296.txt	http://news.chosun.com/site/data/html_dir/2010/10/11/2010101102296.html	고통과 행복
+cjc_0082	2010101802307.txt	http://news.chosun.com/site/data/html_dir/2010/10/18/2010101802307.html	DNA 신봉시대
+cjc_0083	2010102502364.txt	http://news.chosun.com/site/data/html_dir/2010/10/25/2010102502364.html	동물의학
+cjc_0084	2010110101920.txt	http://news.chosun.com/site/data/html_dir/2010/11/01/2010110101920.html	소통
+cjc_0085	2010110802258.txt	http://news.chosun.com/site/data/html_dir/2010/11/08/2010110802258.html	성대모사
+cjc_0086	2010111502155.txt	http://news.chosun.com/site/data/html_dir/2010/11/15/2010111502155.html	국화
+cjc_0087	2010112201941.txt	http://news.chosun.com/site/data/html_dir/2010/11/22/2010112201941.html	외국어와 치매
+cjc_0088	2010112902060.txt	http://news.chosun.com/site/data/html_dir/2010/11/29/2010112902060.html	트웨인과 핼리
+cjc_0089	2010120601940.txt	http://news.chosun.com/site/data/html_dir/2010/12/06/2010120601940.html	존 레넌과 비틀스
+cjc_0090	2010121301950.txt	http://news.chosun.com/site/data/html_dir/2010/12/13/2010121301950.html	相生과 共生
+cjc_0091	2010122001723.txt	http://news.chosun.com/site/data/html_dir/2010/12/20/2010122001723.html	생태 복지
+cjc_0092	2010122702071.txt	http://news.chosun.com/site/data/html_dir/2010/12/27/2010122702071.html	구제역과 토끼의 해
+cjc_0093	2011010301881.txt	http://news.chosun.com/site/data/html_dir/2011/01/03/2011010301881.html	희망을 말하는 동물
+cjc_0094	2011011002358.txt	http://news.chosun.com/site/data/html_dir/2011/01/10/2011011002358.html	세계 인구
+cjc_0095	2011011702310.txt	http://news.chosun.com/site/data/html_dir/2011/01/17/2011011702310.html	생태 재앙
+cjc_0096	2011012402244.txt	http://news.chosun.com/site/data/html_dir/2011/01/24/2011012402244.html	창작의 뇌
+cjc_0097	2011013102288.txt	http://news.chosun.com/site/data/html_dir/2011/01/31/2011013102288.html	게임이론의 상대성
+cjc_0098	2011020701980.txt	http://news.chosun.com/site/data/html_dir/2011/02/07/2011020701980.html	유난히도 긴 겨울
+cjc_0099	2011021401952.txt	http://news.chosun.com/site/data/html_dir/2011/02/14/2011021401952.html	화이트헤드
+cjc_0100	2011022102512.txt	http://news.chosun.com/site/data/html_dir/2011/02/21/2011022102512.html	호모 리시오
+cjc_0101	2011022802365.txt	http://news.chosun.com/site/data/html_dir/2011/02/28/2011022802365.html	배움과 가르침
+cjc_0102	2011030702535.txt	http://news.chosun.com/site/data/html_dir/2011/03/07/2011030702535.html	세계 여성의 날 100주년
+cjc_0103	2011031402293.txt	http://news.chosun.com/site/data/html_dir/2011/03/14/2011031402293.html	개성
+cjc_0104	2011032102246.txt	http://news.chosun.com/site/data/html_dir/2011/03/21/2011032102246.html	폐(弊)
+cjc_0105	2011032802192.txt	http://news.chosun.com/site/data/html_dir/2011/03/28/2011032802192.html	매뉴얼 사회
+cjc_0106	2011040402233.txt	http://news.chosun.com/site/data/html_dir/2011/04/04/2011040402233.html	목련
+cjc_0107	2011041102221.txt	http://news.chosun.com/site/data/html_dir/2011/04/11/2011041102221.html	수명
+cjc_0108	2011041802265.txt	http://news.chosun.com/site/data/html_dir/2011/04/18/2011041802265.html	해류
+cjc_0109	2011042502133.txt	http://news.chosun.com/site/data/html_dir/2011/04/25/2011042502133.html	흰개미
+cjc_0110	2011050202178.txt	http://news.chosun.com/site/data/html_dir/2011/05/02/2011050202178.html	동물의 소리
+cjc_0111	2011050901909.txt	http://news.chosun.com/site/data/html_dir/2011/05/09/2011050901909.html	이타주의
+cjc_0112	2011051602030.txt	http://news.chosun.com/site/data/html_dir/2011/05/16/2011051602030.html	온실기체
+cjc_0113	2011052302288.txt	http://news.chosun.com/site/data/html_dir/2011/05/23/2011052302288.html	식물의 행성
+cjc_0114	2011053001996.txt	http://news.chosun.com/site/data/html_dir/2011/05/30/2011053001996.html	사투리
+cjc_0115	2011060601323.txt	http://news.chosun.com/site/data/html_dir/2011/06/06/2011060601323.html	애기똥풀
+cjc_0116	2011061302038.txt	http://news.chosun.com/site/data/html_dir/2011/06/13/2011061302038.html	어감
+cjc_0117	2011062002075.txt	http://news.chosun.com/site/data/html_dir/2011/06/20/2011062002075.html	웨지우드와 다윈
+cjc_0118	2011062702010.txt	http://news.chosun.com/site/data/html_dir/2011/06/27/2011062702010.html	'나가수'와 진화
+cjc_0119	2011070401915.txt	http://news.chosun.com/site/data/html_dir/2011/07/04/2011070401915.html	도덕
+cjc_0120	2011071102105.txt	http://news.chosun.com/site/data/html_dir/2011/07/11/2011071102105.html	악기 연주
+cjc_0121	2011071801982.txt	http://news.chosun.com/site/data/html_dir/2011/07/18/2011071801982.html	얼굴
+cjc_0122	2011072501997.txt	http://news.chosun.com/site/data/html_dir/2011/07/25/2011072501997.html	인생 이모작
+cjc_0123	2011080101861.txt	http://news.chosun.com/site/data/html_dir/2011/08/01/2011080101861.html	환생(還生)
+cjc_0124	2011080802038.txt	http://news.chosun.com/site/data/html_dir/2011/08/08/2011080802038.html	옷의 진화
+cjc_0125	2011081501443.txt	http://news.chosun.com/site/data/html_dir/2011/08/15/2011081501443.html	행동의 진화
+cjc_0126	2011082201970.txt	http://news.chosun.com/site/data/html_dir/2011/08/22/2011082201970.html	도토리거위벌레
+cjc_0127	2011082902445.txt	http://news.chosun.com/site/data/html_dir/2011/08/29/2011082902445.html	테드 케네디
+cjc_0128	2011090501916.txt	http://news.chosun.com/site/data/html_dir/2011/09/05/2011090501916.html	도심 양봉
+cjc_0129	2011091902079.txt	http://news.chosun.com/site/data/html_dir/2011/09/19/2011091902079.html	정자 기증
+cjc_0130	2011092601956.txt	http://news.chosun.com/site/data/html_dir/2011/09/26/2011092601956.html	모델 T와 중용(中庸)
+cjc_0131	2011101002324.txt	http://news.chosun.com/site/data/html_dir/2011/10/10/2011101002324.html	오랑우탄
+cjc_0132	2011101702662.txt	http://news.chosun.com/site/data/html_dir/2011/10/17/2011101702662.html	책벌(冊閥)
+cjc_0133	2011102402427.txt	http://news.chosun.com/site/data/html_dir/2011/10/24/2011102402427.html	걷기 예찬
+cjc_0134	2011103103108.txt	http://news.chosun.com/site/data/html_dir/2011/10/31/2011103103108.html	세대 갈등
+cjc_0135	2011110702477.txt	http://news.chosun.com/site/data/html_dir/2011/11/07/2011110702477.html	배호
+cjc_0136	2011111402441.txt	http://news.chosun.com/site/data/html_dir/2011/11/14/2011111402441.html	괴담
+cjc_0137	2011112102306.txt	http://news.chosun.com/site/data/html_dir/2011/11/21/2011112102306.html	평판
+cjc_0138	2011112701177.txt	http://news.chosun.com/site/data/html_dir/2011/11/27/2011112701177.html	도구를 사용하는 동물
+cjc_0139	2011120502508.txt	http://news.chosun.com/site/data/html_dir/2011/12/05/2011120502508.html	꼽등이
+cjc_0140	2011121203112.txt	http://news.chosun.com/site/data/html_dir/2011/12/12/2011121203112.html	쀠뜨와 현상과 하인리히 법칙
+cjc_0141	2011121903234.txt	http://news.chosun.com/site/data/html_dir/2011/12/19/2011121903234.html	종교의 미래
+cjc_0142	2011122602598.txt	http://news.chosun.com/site/data/html_dir/2011/12/26/2011122602598.html	생태계
+cjc_0143	2012010202749.txt	http://news.chosun.com/site/data/html_dir/2012/01/02/2012010202749.html	전당포의 추억
+cjc_0144	2012010902885.txt	http://news.chosun.com/site/data/html_dir/2012/01/09/2012010902885.html	몸짓신호와 거시기
+cjc_0145	2012011602913.txt	http://news.chosun.com/site/data/html_dir/2012/01/16/2012011602913.html	유전-환경 논쟁
+cjc_0146	2012013002724.txt	http://news.chosun.com/site/data/html_dir/2012/01/30/2012013002724.html	스마트(smart)
+cjc_0147	2012020602550.txt	http://news.chosun.com/site/data/html_dir/2012/02/06/2012020602550.html	SNS와 페로몬
+cjc_0148	2012021302897.txt	http://news.chosun.com/site/data/html_dir/2012/02/13/2012021302897.html	소리 화석
+cjc_0149	2012022002944.txt	http://news.chosun.com/site/data/html_dir/2012/02/20/2012022002944.html	멸종과 IPBES
+cjc_0150	2012022702567.txt	http://news.chosun.com/site/data/html_dir/2012/02/27/2012022702567.html	조권 효과
+cjc_0151	2012030502723.txt	http://news.chosun.com/site/data/html_dir/2012/03/05/2012030502723.html	윌리엄 휴얼(William Whewell)
+cjc_0152	2012031203061.txt	http://news.chosun.com/site/data/html_dir/2012/03/12/2012031203061.html	자연의 色
+cjc_0153	2012031902493.txt	http://news.chosun.com/site/data/html_dir/2012/03/19/2012031902493.html	이름 심리학
+cjc_0154	2012032602442.txt	http://news.chosun.com/site/data/html_dir/2012/03/26/2012032602442.html	연어
+cjc_0155	2012040202230.txt	http://news.chosun.com/site/data/html_dir/2012/04/02/2012040202230.html	바로 콜로라도 아일랜드
+cjc_0156	2012040902616.txt	http://news.chosun.com/site/data/html_dir/2012/04/09/2012040902616.html	선택
+cjc_0157	2012041602563.txt	http://news.chosun.com/site/data/html_dir/2012/04/16/2012041602563.html	꽃밖꿀샘
+cjc_0158	2012042302459.txt	http://news.chosun.com/site/data/html_dir/2012/04/23/2012042302459.html	새들도 이혼한다
+cjc_0159	2012043002499.txt	http://news.chosun.com/site/data/html_dir/2012/04/30/2012043002499.html	숙제하는 사람, 출제하는 사람
+cjc_0160	2012050702617.txt	http://news.chosun.com/site/data/html_dir/2012/05/07/2012050702617.html	토미 리 존스와 앨 고어
+cjc_0161	2012051402425.txt	http://news.chosun.com/site/data/html_dir/2012/05/14/2012051402425.html	얼음의 땅, 깃털의 사람들
+cjc_0162	2012052102594.txt	http://news.chosun.com/site/data/html_dir/2012/05/21/2012052102594.html	생물다양성의 날과 '나고야 의정서'
+cjc_0163	2012052801680.txt	http://news.chosun.com/site/data/html_dir/2012/05/28/2012052801680.html	진화와 자연선택
+cjc_0164	2012060402320.txt	http://news.chosun.com/site/data/html_dir/2012/06/04/2012060402320.html	노출의 계절과 피부 보호
+cjc_0165	2012061102686.txt	http://news.chosun.com/site/data/html_dir/2012/06/11/2012061102686.html	총알개미와 독침고통지수
+cjc_0166	2012061802163.txt	http://news.chosun.com/site/data/html_dir/2012/06/18/2012061802163.html	과학의 조건
+cjc_0167	2012062502438.txt	http://news.chosun.com/site/data/html_dir/2012/06/25/2012062502438.html	"자연으로 돌아가라"―루소와 제돌이
+cjc_0168	2012070202862.txt	http://news.chosun.com/site/data/html_dir/2012/07/02/2012070202862.html	도자기의 역사
+cjc_0169	2012070902639.txt	http://news.chosun.com/site/data/html_dir/2012/07/09/2012070902639.html	당근과 채찍
+cjc_0170	2012071602274.txt	http://news.chosun.com/site/data/html_dir/2012/07/16/2012071602274.html	소리 없는 살인 병기, 의자
+cjc_0171	2012072302368.txt	http://news.chosun.com/site/data/html_dir/2012/07/23/2012072302368.html	인구의 고령화와 정치의 보수화
+cjc_0172	2012073003001.txt	http://news.chosun.com/site/data/html_dir/2012/07/30/2012073003001.html	목소리
+cjc_0173	2012080602356.txt	http://news.chosun.com/site/data/html_dir/2012/08/06/2012080602356.html	책, 인류 최악의 발명품
+cjc_0174	2012081302748.txt	http://news.chosun.com/site/data/html_dir/2012/08/13/2012081302748.html	토론 문화
+cjc_0175	2012082002322.txt	http://news.chosun.com/site/data/html_dir/2012/08/20/2012082002322.html	'경계동물(境界動物)' 해파리
+cjc_0176	2012082702372.txt	http://news.chosun.com/site/data/html_dir/2012/08/27/2012082702372.html	두 동굴 이야기
+cjc_0177	2012090302515.txt	http://news.chosun.com/site/data/html_dir/2012/09/03/2012090302515.html	4분33초
+cjc_0178	2012091002375.txt	http://news.chosun.com/site/data/html_dir/2012/09/10/2012091002375.html	애플과 새누리 
+cjc_0179	2012091702736.txt	http://news.chosun.com/site/data/html_dir/2012/09/17/2012091702736.html	개미 사회의 화학적 거세
+cjc_0180	2012092402423.txt	http://news.chosun.com/site/data/html_dir/2012/09/24/2012092402423.html	'좋은 놈, 나쁜 놈, 추한 놈'
+cjc_0181	2012100100889.txt	http://news.chosun.com/site/data/html_dir/2012/10/01/2012100100889.html	'침묵의 봄'과 생태학의 시대
+cjc_0182	2012100802964.txt	http://news.chosun.com/site/data/html_dir/2012/10/08/2012100802964.html	소식(小食)과 장수(長壽)
+cjc_0183	2012101502914.txt	http://news.chosun.com/site/data/html_dir/2012/10/15/2012101502914.html	붉은 여왕 (The Red Queen)
+cjc_0184	2012102202947.txt	http://news.chosun.com/site/data/html_dir/2012/10/22/2012102202947.html	나눔과 베풂
+cjc_0185	2012102903017.txt	http://news.chosun.com/site/data/html_dir/2012/10/29/2012102903017.html	묘비명
+cjc_0186	2012110502501.txt	http://news.chosun.com/site/data/html_dir/2012/11/05/2012110502501.html	통찰 (洞察)
+cjc_0187	2012111202633.txt	http://news.chosun.com/site/data/html_dir/2012/11/12/2012111202633.html	뿌리와 새싹 (Roots & Shoots)
+cjc_0188	2012111902370.txt	http://news.chosun.com/site/data/html_dir/2012/11/19/2012111902370.html	꿀벌의 꼬리춤과 언어의 조건
+cjc_0189	2012112602341.txt	http://news.chosun.com/site/data/html_dir/2012/11/26/2012112602341.html	개미나라의 단일화
+cjc_0190	2012120302778.txt	http://news.chosun.com/site/data/html_dir/2012/12/03/2012120302778.html	輿論인가 演論인가
+cjc_0191	2012121002684.txt	http://news.chosun.com/site/data/html_dir/2012/12/10/2012121002684.html	88만원 세대의 투표권
+cjc_0192	2012121702632.txt	http://news.chosun.com/site/data/html_dir/2012/12/17/2012121702632.html	'인터넷의 역설'과 책
+cjc_0193	2012122402370.txt	http://news.chosun.com/site/data/html_dir/2012/12/24/2012122402370.html	미래창조기술부
+cjc_0194	2012123001019.txt	http://news.chosun.com/site/data/html_dir/2012/12/30/2012123001019.html	뱀, 축복과 저주를 한 몸에
+cjc_0195	2013010702514.txt	http://news.chosun.com/site/data/html_dir/2013/01/07/2013010702514.html	'혁명'은 이렇게 조용히
+cjc_0196	2013011402358.txt	http://news.chosun.com/site/data/html_dir/2013/01/14/2013011402358.html	딸꾹질
+cjc_0197	2013012102280.txt	http://news.chosun.com/site/data/html_dir/2013/01/21/2013012102280.html	인식, 생각, 실행, 회고
+cjc_0198	2013012802181.txt	http://news.chosun.com/site/data/html_dir/2013/01/28/2013012802181.html	허파꽈리 수난시대
+cjc_0199	2013020402368.txt	http://news.chosun.com/site/data/html_dir/2013/02/04/2013020402368.html	'끼'란 무엇인가
+cjc_0200	2013021101238.txt	http://news.chosun.com/site/data/html_dir/2013/02/11/2013021101238.html	링컨과 다윈
+cjc_0201	2013021802244.txt	http://news.chosun.com/site/data/html_dir/2013/02/18/2013021802244.html	최재천의 자연과 문화  남쪽으로 튄 자유
+cjc_0202	2013022501978.txt	http://news.chosun.com/site/data/html_dir/2013/02/25/2013022501978.html	배움과 나눔
+cjc_0203	2013030402662.txt	http://news.chosun.com/site/data/html_dir/2013/03/04/2013030402662.html	생물의 방어
+cjc_0204	2013031102331.txt	http://news.chosun.com/site/data/html_dir/2013/03/11/2013031102331.html	행복의 수학 공식
+cjc_0205	2013031802132.txt	http://news.chosun.com/site/data/html_dir/2013/03/18/2013031802132.html	명품과 짝퉁의 차이
+cjc_0206	2013032502197.txt	http://news.chosun.com/site/data/html_dir/2013/03/25/2013032502197.html	'가지 않은 길'
+cjc_0207	2013040102178.txt	http://news.chosun.com/site/data/html_dir/2013/04/01/2013040102178.html	피카소처럼 살자
+cjc_0208	2013040802274.txt	http://news.chosun.com/site/data/html_dir/2013/04/08/2013040802274.html	'고품격' 복지와 웰빙
+cjc_0209	2013041502296.txt	http://news.chosun.com/site/data/html_dir/2013/04/15/2013041502296.html	生水와 '아리수'
+cjc_0210	2013042202291.txt	http://news.chosun.com/site/data/html_dir/2013/04/22/2013042202291.html	발가벗긴 DNA
+cjc_0211	2013042902349.txt	http://news.chosun.com/site/data/html_dir/2013/04/29/2013042902349.html	호칭유감
+cjc_0212	2013050602496.txt	http://news.chosun.com/site/data/html_dir/2013/05/06/2013050602496.html	마이클 샌델과 edX
+cjc_0213	2013051302500.txt	http://news.chosun.com/site/data/html_dir/2013/05/13/2013051302500.html	제돌이의 귀향
+cjc_0214	2013052002437.txt	http://news.chosun.com/site/data/html_dir/2013/05/20/2013052002437.html	잔인한 계절, 봄
+cjc_0215	2013052703045.txt	http://news.chosun.com/site/data/html_dir/2013/05/27/2013052703045.html	진드기
+cjc_0216	2013060303160.txt	http://news.chosun.com/site/data/html_dir/2013/06/03/2013060303160.html	압구정 벌레
+cjc_0217	2013061003101.txt	http://news.chosun.com/site/data/html_dir/2013/06/10/2013061003101.html	본색
+cjc_0218	2013061702805.txt	http://news.chosun.com/site/data/html_dir/2013/06/17/2013061702805.html	창조경제의 떡밥
+cjc_0219	2013062403594.txt	http://news.chosun.com/site/data/html_dir/2013/06/24/2013062403594.html	생명 특허
+cjc_0220	2013070103175.txt	http://news.chosun.com/site/data/html_dir/2013/07/01/2013070103175.html	시작과 반
+cjc_0221	2013070803003.txt	http://news.chosun.com/site/data/html_dir/2013/07/08/2013070803003.html	'쥬라기 공원' 20주년
+cjc_0222	2013071503005.txt	http://news.chosun.com/site/data/html_dir/2013/07/15/2013071503005.html	인간에 도움 청하는 동물
+cjc_0223	2013072202945.txt	http://news.chosun.com/site/data/html_dir/2013/07/22/2013072202945.html	엉킨 실타래와 매듭
+cjc_0224	2013072903220.txt	http://news.chosun.com/site/data/html_dir/2013/07/29/2013072903220.html	뜨거운 여름의 욕망
+cjc_0225	2013080503017.txt	http://news.chosun.com/site/data/html_dir/2013/08/05/2013080503017.html	경제성과 생태성
+cjc_0226	2013081203148.txt	http://news.chosun.com/site/data/html_dir/2013/08/12/2013081203148.html	지도자와 미래
+cjc_0227	2013081903283.txt	http://news.chosun.com/site/data/html_dir/2013/08/19/2013081903283.html	뎅기열
+cjc_0228	2013082603587.txt	http://news.chosun.com/site/data/html_dir/2013/08/26/2013082603587.html	"나에겐 꿈이 있습니다"
+cjc_0229	2013090204035.txt	http://news.chosun.com/site/data/html_dir/2013/09/02/2013090204035.html	사소한 규칙
+cjc_0230	2013090903323.txt	http://news.chosun.com/site/data/html_dir/2013/09/09/2013090903323.html	남자들의 수다
+cjc_0231	2013091603463.txt	http://news.chosun.com/site/data/html_dir/2013/09/16/2013091603463.html	세계평화의 날
+cjc_0232	2013092305038.txt	http://news.chosun.com/site/data/html_dir/2013/09/23/2013092305038.html	수컷의 물건
+cjc_0233	2013093004519.txt	http://news.chosun.com/site/data/html_dir/2013/09/30/2013093004519.html	미인계
+cjc_0234	2013100703978.txt	http://news.chosun.com/site/data/html_dir/2013/10/07/2013100703978.html	진정한 용기
+cjc_0235	2013101404124.txt	http://news.chosun.com/site/data/html_dir/2013/10/14/2013101404124.html	코끼리
+cjc_0236	2013102103933.txt	http://news.chosun.com/site/data/html_dir/2013/10/21/2013102103933.html	거품 예찬
+cjc_0237	2013102200781.txt	http://news.chosun.com/site/data/html_dir/2013/10/22/2013102200781.html	거품 예찬
+cjc_0238	2013102804636.txt	http://news.chosun.com/site/data/html_dir/2013/10/28/2013102804636.html	저음의 매력
+cjc_0239	2013110403667.txt	http://news.chosun.com/site/data/html_dir/2013/11/04/2013110403667.html	다윈과 월리스
+cjc_0240	2013111103408.txt	http://news.chosun.com/site/data/html_dir/2013/11/11/2013111103408.html	연금, 보험, 기금
+cjc_0241	2013111803865.txt	http://news.chosun.com/site/data/html_dir/2013/11/18/2013111803865.html	오리시대
+cjc_0242	2013112503616.txt	http://news.chosun.com/site/data/html_dir/2013/11/25/2013112503616.html	傳說의 계통분류학
+cjc_0243	2013120203917.txt	http://news.chosun.com/site/data/html_dir/2013/12/02/2013120203917.html	학문의 분류
+cjc_0244	2013120904040.txt	http://news.chosun.com/site/data/html_dir/2013/12/09/2013120904040.html	솔제니친과 사회생물학
+cjc_0245	2013121604278.txt	http://news.chosun.com/site/data/html_dir/2013/12/16/2013121604278.html	친·인척 숙청
+cjc_0246	2013122304614.txt	http://news.chosun.com/site/data/html_dir/2013/12/23/2013122304614.html	나아갈 진(進)
+cjc_0247	2013123003959.txt	http://news.chosun.com/site/data/html_dir/2013/12/30/2013123003959.html	신뢰와 칫솔
+cjc_0248	2014010604017.txt	http://news.chosun.com/site/data/html_dir/2014/01/06/2014010604017.html	덤살이
+cjc_0249	2014011304468.txt	http://news.chosun.com/site/data/html_dir/2014/01/13/2014011304468.html	비겁(卑怯)
+cjc_0250	2014012004085.txt	http://news.chosun.com/site/data/html_dir/2014/01/20/2014012004085.html	12년 만의 퇴임[정정내용 있음]
+cjc_0251	2014012704210.txt	http://news.chosun.com/site/data/html_dir/2014/01/27/2014012704210.html	악수 문화
+cjc_0252	2014020303449.txt	http://news.chosun.com/site/data/html_dir/2014/02/03/2014020303449.html	인간유일(人間唯一)
+cjc_0253	2014021004326.txt	http://news.chosun.com/site/data/html_dir/2014/02/10/2014021004326.html	슬로건
+cjc_0254	2014021704084.txt	http://news.chosun.com/site/data/html_dir/2014/02/17/2014021704084.html	일본의 남성 배려
+cjc_0255	2014022404284.txt	http://news.chosun.com/site/data/html_dir/2014/02/24/2014022404284.html	여왕 김연아
+cjc_0256	2014030303957.txt	http://news.chosun.com/site/data/html_dir/2014/03/03/2014030303957.html	비발디와 멘델
+cjc_0257	2014031003775.txt	http://news.chosun.com/site/data/html_dir/2014/03/10/2014031003775.html	위안과 감사
+cjc_0258	2014031703938.txt	http://news.chosun.com/site/data/html_dir/2014/03/17/2014031703938.html	통일준비위원회와 DMZ
+cjc_0259	2014032403934.txt	http://news.chosun.com/site/data/html_dir/2014/03/24/2014032403934.html	식단의 진화
+cjc_0260	2014033104292.txt	http://news.chosun.com/site/data/html_dir/2014/03/31/2014033104292.html	제인 구달의 八旬
+cjc_0261	2014040703793.txt	http://news.chosun.com/site/data/html_dir/2014/04/07/2014040703793.html	파도타기
+cjc_0262	2014041403954.txt	http://news.chosun.com/site/data/html_dir/2014/04/14/2014041403954.html	아기의 칭얼거림
+cjc_0263	2014042102856.txt	http://news.chosun.com/site/data/html_dir/2014/04/21/2014042102856.html	무기력 사회
+cjc_0264	2014042803510.txt	http://news.chosun.com/site/data/html_dir/2014/04/28/2014042803510.html	희망의 배
+cjc_0265	2014050501650.txt	http://news.chosun.com/site/data/html_dir/2014/05/05/2014050501650.html	本能의 빈자리
+cjc_0266	2014051204047.txt	http://news.chosun.com/site/data/html_dir/2014/05/12/2014051204047.html	새로운 계산법
+cjc_0267	2014051903405.txt	http://news.chosun.com/site/data/html_dir/2014/05/19/2014051903405.html	百罰百戒
+cjc_0268	2014052603580.txt	http://news.chosun.com/site/data/html_dir/2014/05/26/2014052603580.html	생태학자의 길
+cjc_0269	2014060203881.txt	http://news.chosun.com/site/data/html_dir/2014/06/02/2014060203881.html	최영 장군과 김영란法
+cjc_0270	2014060903842.txt	http://news.chosun.com/site/data/html_dir/2014/06/09/2014060903842.html	회초리와 마중물
+cjc_0271	2014061603944.txt	http://news.chosun.com/site/data/html_dir/2014/06/16/2014061603944.html	에코뱅크
+cjc_0272	2014062304624.txt	http://news.chosun.com/site/data/html_dir/2014/06/23/2014062304624.html	예언과 예측
+cjc_0273	2014063004054.txt	http://news.chosun.com/site/data/html_dir/2014/06/30/2014063004054.html	서비스 산업
+cjc_0274	2014070703942.txt	http://news.chosun.com/site/data/html_dir/2014/07/07/2014070703942.html	역사 知能
+cjc_0275	2014071403838.txt	http://news.chosun.com/site/data/html_dir/2014/07/14/2014071403838.html	제돌이 방류 1주년
+cjc_0276	2014072103899.txt	http://news.chosun.com/site/data/html_dir/2014/07/21/2014072103899.html	인구 비례
+cjc_0277	2014072803800.txt	http://news.chosun.com/site/data/html_dir/2014/07/28/2014072803800.html	후두염
+cjc_0278	2014080403550.txt	http://news.chosun.com/site/data/html_dir/2014/08/04/2014080403550.html	장만영과 오영수
+cjc_0279	2014081103669.txt	http://news.chosun.com/site/data/html_dir/2014/08/11/2014081103669.html	몸에 좋은 음식
+cjc_0280	2014081803875.txt	http://news.chosun.com/site/data/html_dir/2014/08/18/2014081803875.html	인간 프란치스코
+cjc_0281	2014082504116.txt	http://news.chosun.com/site/data/html_dir/2014/08/25/2014082504116.html	CCTV와 The Police
+cjc_0282	2014090104290.txt	http://news.chosun.com/site/data/html_dir/2014/09/01/2014090104290.html	사회생물학
+cjc_0283	2014091503695.txt	http://news.chosun.com/site/data/html_dir/2014/09/15/2014091503695.html	으악새
+cjc_0284	2014092205023.txt	http://news.chosun.com/site/data/html_dir/2014/09/22/2014092205023.html	땅
+cjc_0285	2014092904749.txt	http://news.chosun.com/site/data/html_dir/2014/09/29/2014092904749.html	기부
+cjc_0286	2014100604262.txt	http://news.chosun.com/site/data/html_dir/2014/10/06/2014100604262.html	다양성
+cjc_0287	2014101304176.txt	http://news.chosun.com/site/data/html_dir/2014/10/13/2014101304176.html	노벨상 유감
+cjc_0288	2014102004191.txt	http://news.chosun.com/site/data/html_dir/2014/10/20/2014102004191.html	독서 실종
+cjc_0289	2014102704586.txt	http://news.chosun.com/site/data/html_dir/2014/10/27/2014102704586.html	여울
+cjc_0290	2014110304160.txt	http://news.chosun.com/site/data/html_dir/2014/11/03/2014110304160.html	판 하빌리스(Pan habilis)
+cjc_0291	2014111004712.txt	http://news.chosun.com/site/data/html_dir/2014/11/10/2014111004712.html	기무라 모토(木村資生)
+cjc_0292	2014111703744.txt	http://news.chosun.com/site/data/html_dir/2014/11/17/2014111703744.html	공회전
+cjc_0293	2014112404000.txt	http://news.chosun.com/site/data/html_dir/2014/11/24/2014112404000.html	김옥길
+cjc_0294	2014120104045.txt	http://news.chosun.com/site/data/html_dir/2014/12/01/2014120104045.html	이반 일리치의 '죽음'
+cjc_0295	2014120804155.txt	http://news.chosun.com/site/data/html_dir/2014/12/08/2014120804155.html	파란 마음 하얀 마음
+cjc_0296	2014121503888.txt	http://news.chosun.com/site/data/html_dir/2014/12/15/2014121503888.html	문과반 이과반
+cjc_0297	2014122204112.txt	http://news.chosun.com/site/data/html_dir/2014/12/22/2014122204112.html	이기적 성공
+cjc_0298	2014123004464.txt	http://news.chosun.com/site/data/html_dir/2014/12/30/2014123004464.html	생명 사랑, 다양성, 창발, 멋
+cjc_0299	2015010504360.txt	http://news.chosun.com/site/data/html_dir/2015/01/05/2015010504360.html	70년의 기적
+cjc_0300	2015011203855.txt	http://news.chosun.com/site/data/html_dir/2015/01/12/2015011203855.html	건강하게 오래 사는 법
+cjc_0301	2015011904182.txt	http://news.chosun.com/site/data/html_dir/2015/01/19/2015011904182.html	'달콤한 돈'
+cjc_0302	2015012604556.txt	http://news.chosun.com/site/data/html_dir/2015/01/26/2015012604556.html	복고풍 범퍼
+cjc_0303	2015020204058.txt	http://news.chosun.com/site/data/html_dir/2015/02/02/2015020204058.html	음악이 죽은 날
+cjc_0304	2015020904175.txt	http://news.chosun.com/site/data/html_dir/2015/02/09/2015020904175.html	성공하는 입버릇
+cjc_0305	2015021603899.txt	http://news.chosun.com/site/data/html_dir/2015/02/16/2015021603899.html	공룡과 龍
+cjc_0306	2015022304064.txt	http://news.chosun.com/site/data/html_dir/2015/02/23/2015022304064.html	뱀의 다리
+cjc_0307	2015031603506.txt	http://news.chosun.com/site/data/html_dir/2015/03/16/2015031603506.html	인성교육의 자가당착
+cjc_0308	2015032304183.txt	http://news.chosun.com/site/data/html_dir/2015/03/23/2015032304183.html	옥시토신, 기적의 호르몬?
+cjc_0309	2015040603534.txt	http://news.chosun.com/site/data/html_dir/2015/04/06/2015040603534.html	歸天과 호스피스
+cjc_0310	2015041303583.txt	http://news.chosun.com/site/data/html_dir/2015/04/13/2015041303583.html	IQ와 입양
+cjc_0311	2015042003935.txt	http://news.chosun.com/site/data/html_dir/2015/04/20/2015042003935.html	4월 21일과 생태학자
+cjc_0312	2015042703536.txt	http://news.chosun.com/site/data/html_dir/2015/04/27/2015042703536.html	개미의 성공
+cjc_0313	2015050403040.txt	http://news.chosun.com/site/data/html_dir/2015/05/04/2015050403040.html	'종(種)의 기원'
+cjc_0314	2015051103739.txt	http://news.chosun.com/site/data/html_dir/2015/05/11/2015051103739.html	요기이즘(Yogiism)
+cjc_0315	2015051803477.txt	http://news.chosun.com/site/data/html_dir/2015/05/18/2015051803477.html	부드러움의 힘
+cjc_0316	2015052501891.txt	http://news.chosun.com/site/data/html_dir/2015/05/25/2015052501891.html	서점관망기
+cjc_0317	2015060103465.txt	http://news.chosun.com/site/data/html_dir/2015/06/01/2015060103465.html	졸업식 축사
+cjc_0318	2015060803441.txt	http://news.chosun.com/site/data/html_dir/2015/06/08/2015060803441.html	전염성과 독성
+cjc_0319	2015061503468.txt	http://news.chosun.com/site/data/html_dir/2015/06/15/2015061503468.html	바이러스 스캔
+cjc_0320	2015062203615.txt	http://news.chosun.com/site/data/html_dir/2015/06/22/2015062203615.html	녹지 공간
+cjc_0321	2015062903997.txt	http://news.chosun.com/site/data/html_dir/2015/06/29/2015062903997.html	소행성의 날
+cjc_0322	2015070603316.txt	http://news.chosun.com/site/data/html_dir/2015/07/06/2015070603316.html	語順과 띄어쓰기
+cjc_0323	2015071303720.txt	http://news.chosun.com/site/data/html_dir/2015/07/13/2015071303720.html	요리하는 남자
+cjc_0324	2015072003495.txt	http://news.chosun.com/site/data/html_dir/2015/07/20/2015072003495.html	자유와 안전
+cjc_0325	2015072703031.txt	http://news.chosun.com/site/data/html_dir/2015/07/27/2015072703031.html	자작나무
+cjc_0326	2015080303370.txt	http://news.chosun.com/site/data/html_dir/2015/08/03/2015080303370.html	이상한 나라의 앨리스
+cjc_0327	2015081003335.txt	http://news.chosun.com/site/data/html_dir/2015/08/10/2015081003335.html	소금쟁이 로봇
+cjc_0328	2015081703679.txt	http://news.chosun.com/site/data/html_dir/2015/08/17/2015081703679.html	키스의 진실
+cjc_0329	2015082403196.txt	http://news.chosun.com/site/data/html_dir/2015/08/24/2015082403196.html	환경교육과 생태학
+cjc_0330	2015083103427.txt	http://news.chosun.com/site/data/html_dir/2015/08/31/2015083103427.html	경원선 복원
+cjc_0331	2015090703551.txt	http://news.chosun.com/site/data/html_dir/2015/09/07/2015090703551.html	균형 외교와 HQ
+cjc_0332	2015091403800.txt	http://news.chosun.com/site/data/html_dir/2015/09/14/2015091403800.html	강소천 선생님
+cjc_0333	2015092103270.txt	http://news.chosun.com/site/data/html_dir/2015/09/21/2015092103270.html	낚시 쓰레기
+cjc_0334	2015100503866.txt	http://news.chosun.com/site/data/html_dir/2015/10/05/2015100503866.html	밤샘
+cjc_0335	2015101203682.txt	http://news.chosun.com/site/data/html_dir/2015/10/12/2015101203682.html	생일과 죽음

@@ -1,0 +1,6 @@
+﻿[과제04] Missing Data; Multivariate Gaussian; Mixture Models  
+
+1. Missing Data: Bivariate Normal (likeliood.pdf p.21)
+2. Missing Data: Binomial Mixture (likelihodd.pdf, p.22)
+3. Normal Mixture Model (mixture-models.pdf, Exercise 6.1)
+4. Generate a random sample from a 3-dimensional Gaussian distribution. Set your own sample size, mean vector and variance matrix. Plot a scatterplot matrix of the simulated data and compute MLEs of the mean vector  and the variance matrix.
